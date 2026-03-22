@@ -1,0 +1,36 @@
+page:
+  canonicalUrl: https://ziggfox.github.io/
+  title: オトコの有益サイト集
+  description: オトコのための有益情報サイト集
+  siteName: オトコの有益サイト集
+  ogType: website
+  ogLocale: ja_JP
+  ogImageUrl: https://dummyimage.com/1200x630/080909/f3f1ea.png&text=OGP+Coming+Soon
+  ogImageAlt: オトコの有益サイト集
+  ogImageWidth: "1200"
+  ogImageHeight: "630"
+  twitterCard: summary_large_image
+  twitterSite: "@example"
+  twitterImageUrl: https://dummyimage.com/1200x630/080909/f3f1ea.png&text=OGP+Coming+Soon
+  themeColor: "#080909"
+  faviconUrl: data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>♠️</text></svg>
+
+hero:
+  label: Men's Beneficial Site / Link Collection
+  title: オトコの有益サイト集
+  description: オトコのための有益情報サイト集
+  sectionNavAriaLabel: カテゴリ一覧
+
+footer:
+  heading: このサイトについて
+  operatorName: オトコの有益サイト集 編集部
+  summary: このページは外部サイトをカテゴリ別に整理したサイト集です。掲載中のリンクや説明文は定期的に確認し、必要に応じて更新します。
+  policy: 掲載先はテーマとの関連性、一覧性、参照しやすさを基準に選定しています。明らかなリンク切れや情報の変化を確認した場合は、内容を見直します。
+  disclaimer: 当サイトは外部サイトの内容を紹介するサイト集です。各リンク先の最新情報、提供条件、利用規約などは遷移先をご確認ください。掲載先の内容や提供継続を保証するものではありません。
+  contactLabel: お問い合わせフォーム
+  contactUrl: https://forms.gle/ChLa37MYUAoVhYL29
+  contactNote: こちらから掲載の希望や内容の修正依頼、リンク切れの連絡を受け付けています。
+  copyright: © 2026 オトコの有益サイト集. All rights reserved.
+
+imports:
+  - links.yaml
